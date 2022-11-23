@@ -1,13 +1,14 @@
 /* Nav Styles */
-ct-nav{
+.ct-nav{
     display: flex;
     justify-content: space-between;
+    padding-top: 2vh;
 }
 
 /* Target Main Logo Image */
 .ct-nav img{
     width: 25%;
-    max-width: 50%;
+    max-width: 100%;
     margin-left: 2vw;
 }
 
@@ -37,26 +38,27 @@ ul#horizontal-list a:nth-last-child(1){
 }
 
 .header-image{
-    width: 82%;
+    width: 75%;
     max-width: 100%;
+    padding-top: 4vh
 }
 /* End of Hero/Header Section */
 
 /* Start of Middle Section */
 #middle-text {
     text-align: center;
-    padding: 13vh;
+    padding: 6vh;
 }
 
 #middle-text h2{
-    padding: 1.5vw;
+    padding: 1vw;
 }
 /* End of Middle Section */
 
 /* Start of Features Section Styles */
 #api-image, #graphql-image, #database-image {
     margin-bottom: 10vh;
-    max-height: 35vh;
+    max-height: 15vh;
 }
 
 #features-section {
