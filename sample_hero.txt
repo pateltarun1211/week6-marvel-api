@@ -1,0 +1,22 @@
+{
+  "name": "Spider-Man",
+  "description": "Sometimes student, sometimes scientist and sometimes photographer, Peter Parker is a full-time super hero better known as the web-slinging and wall-crawling Spider-Man.",
+  "comics_appeared_in": 4278,
+  "super_power": "Spider-Physiology; Wall-Crawling, Super: Strength, Speed, Stamina, Reflexes; Spider-Sense"
+}
+
+
+{
+  "name": "Black Panther",
+  "description": "T'Challa a.k.a. the Black Panther[24] is the head of state for the African nation of Wakanda, the most technologically advanced country on Earth. In this role, he was the King/Chieftain, religious leader, and commander-in-chief all rolled into one.",
+  "comics_appeared_in": 1132,
+  "super_power": "Divine Empowerment; Superhuman Acute Senses; Peak Human Strength, Speed, Stamina, Durability, Regeneration, Agility, Endurance, Reflexes"
+}
+
+
+{
+  "name": "Carlton LaFroyge aka Hindsight Lad",
+  "description": "Computer nerd and general misfit who blackmailed his way into Speedball and the New Warriors",
+  "comics_appeared_in": 38,
+  "super_power": "None"
+}
